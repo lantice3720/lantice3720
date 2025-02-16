@@ -1,6 +1,1 @@
-# Introduction
-Hi 👋
-
-I'm a amateur computer engineer.
-
-Recently interested in web technologies.
+I'm an armature developer, who mostly play with jvm and python.
